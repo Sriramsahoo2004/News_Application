@@ -1,5 +1,6 @@
 # News Website
 Author :- Sriram Sahoo
+
 A responsive and modern news website built with **HTML**, **CSS**, and **JavaScript**. The website fetches live news from an API and displays it in a user-friendly format, with features such as category filters, search functionality, and more.
 
 ## Features
